@@ -98,6 +98,7 @@ body {
 }
 
 .content p {
+	font-size: 1.0em;
 	text-indent: 0.4em;
 	line-height: 1.7;
 	color: white;
